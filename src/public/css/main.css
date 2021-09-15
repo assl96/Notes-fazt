@@ -1,0 +1,23 @@
+body{
+    background: plum;
+}
+
+.jumbotron {
+    background-color: yellow !important;
+}
+
+.card{
+    background-color: #F18ED6;
+}
+
+.bg-yellow {
+    background-color: yellow !important;
+}
+.logo{
+    width: 100%;
+}
+.register{
+    width: 70%;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
